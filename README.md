@@ -1,2 +1,1 @@
 # SupersetBot
-# Project abandoned :<
